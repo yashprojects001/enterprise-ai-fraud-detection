@@ -91,3 +91,35 @@ This demonstrates a **human-in-the-loop ML workflow**, commonly used in finance 
 
 ---
 
+## ▶️ How to Run the Project (Windows)
+
+### 1️⃣ Activate virtual environment
+```bat
+venv\Scripts\activate.bat
+2️⃣ Run the dashboard
+streamlit run dashboards\app.py
+Open in browser:
+http://localhost:8501
+
+🔒 Safety & Design Principles
+No system-level commands or configurations
+
+All operations remain within the project directory
+
+Raw data is never modified
+
+Models and predictions are handled locally
+
+🎯 Project Goal
+To demonstrate production-level ML engineering skills, including:
+System design thinking
+Handling imbalanced data
+Explainable AI
+Deployment-ready workflows
+Business-aligned decision support
+
+📌 Status
+✅ Fully implemented
+✅ Tested with real fraud cases
+✅ Dashboard operational
+🚀 Ready for portfolio, interviews, and demonstrations
