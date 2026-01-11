@@ -59,7 +59,7 @@ Decision Dashboard + Feedback Loop
 
 ## 📊 Dataset
 
-- **Source:** Credit Card Transactions Dataset (European cardholders)  
+- **Source:** Credit Card Transactions Dataset (European cardholders)   (I took it from Kaggle)
 - **Nature:** Highly imbalanced fraud detection dataset  
 - **Note:** Raw dataset is not included in the repository due to licensing constraints.  
   Feature-engineered data and pipeline code are provided.
